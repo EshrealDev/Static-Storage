@@ -1,10 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "schemaVersion": 1,
   "classes": {
     "WARRIOR": [
       {
-        "name": "Melee test",
+        "name": "Melee test 2",
         "groups": [
           {
             "name": "Melee",
